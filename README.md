@@ -1,4 +1,4 @@
 Projet Integrateur
 Nom : Puati Josue
 Programme : Informatique
-Documents : - Cahier de conception  - Planification Jira
+Documents : - Cahier de conception  - Planification Jira - Cahiers de charge
